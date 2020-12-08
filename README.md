@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm William  👋
 
-<!--
-**willfeliz1/willfeliz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Facts about me:
 
-Here are some ideas to get you started:
+⚡ I'm a enthusiast fullstack Javascript developer seeking for new challenges. </br>
+⚡ Learning new React components for fast development "Material-UI | Ant Design". </br>
+⚡ Like to read books, watch TV series and play games. </br>
+⚡ Love for a good ☕ . </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 
+
+### Social media:
+
+- [Linkedin 🚀](https://www.linkedin.com/in/william-felizardo-886698138/)
+- [Instagram 📱](https://www.instagram.com/willfeliz1)
+- [E-Mail ✉](william.mfelizardo@gmail.com)
