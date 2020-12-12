@@ -5,7 +5,7 @@
 ⚡ I'm a enthusiast fullstack Javascript developer seeking for new challenges. </br>
 ⚡ Learning new React components for fast development "Material-UI | Ant Design". </br>
 ⚡ Like to read books, watch TV series and play games. </br>
-⚡ Love for a good ☕ . </br>
+⚡ Love for ☕. </br>
 
 # 
 
