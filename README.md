@@ -11,6 +11,6 @@
 
 ### Social media:
 
-⚡ [Linkedin 🚀](https://www.linkedin.com/in/william-felizardo-886698138/) </br>
+⚡ [Linkedin 🚀](https://www.linkedin.com/in/william-felizardo/) </br>
 ⚡ [Instagram 📱](https://www.instagram.com/willfeliz1) </br>
 ⚡ [E-Mail ✉](william.mfelizardo@gmail.com) </br>
